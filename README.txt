@@ -40,6 +40,10 @@ https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 If you already possess Firefox and Greasemonkey, simply add the contents of 
 script.js to Greasemonkey. I will not be providing a guide as how to do this.
 
+Experimental Google Chrome extension can be tried. Not tested. Enable Developer
+Mode in Google Chrome and drag ChromeVersion.crx inside. An icon will appear but
+there is no functionality for it.
+
 ========================================
 2. What does this script do?
 ========================================
@@ -71,6 +75,7 @@ May 7, 2016
 -performs original function
 -bundled into a single script
 -updated README.txt
+-added experimental Chrome version
 
 ========================================
 4. Past Requirements
